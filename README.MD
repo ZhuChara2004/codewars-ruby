@@ -13,3 +13,4 @@
 * [11 - Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
 * [12 - Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139)
 * [13 - Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+* [14 - Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
