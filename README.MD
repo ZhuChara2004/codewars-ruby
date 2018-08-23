@@ -6,3 +6,4 @@
 * [04 - Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 * [05 - Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b)
 * [06 - Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
+* [07 - Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
