@@ -10,4 +10,5 @@
 * [08 - Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 * [09 - Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [10 - Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
-* [11 - 11 - Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
+* [11 - Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
+* [12 - Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139)
