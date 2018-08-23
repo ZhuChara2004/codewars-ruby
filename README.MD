@@ -8,3 +8,5 @@
 * [06 - Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [07 - Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 * [08 - Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+* [09 - Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+*
